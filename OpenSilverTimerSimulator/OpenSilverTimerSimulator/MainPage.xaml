@@ -1,0 +1,15 @@
+﻿<sdk:Page
+    x:Class="OpenSilverTimerSimulator.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk"
+    xmlns:local="clr-namespace:OpenSilverTimerSimulator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <StackPanel>
+        <Button Click="Run" Content="Run" />
+        <TextBlock Text="" x:Name="TextBlockOutPut" />
+    </StackPanel>
+    
+</sdk:Page>

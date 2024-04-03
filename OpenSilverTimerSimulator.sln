@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSilverTimerSimulator.Browser", "OpenSilverTimerSimulator\OpenSilverTimerSimulator.Browser\OpenSilverTimerSimulator.Browser.csproj", "{4B4784C7-4A13-4AC5-B4ED-570AE9F73AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSilverTimerSimulator", "OpenSilverTimerSimulator\OpenSilverTimerSimulator\OpenSilverTimerSimulator.csproj", "{244A0B0A-0C4E-4248-A272-328A8C78E8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSilverTimerSimulator.Simulator", "OpenSilverTimerSimulator\OpenSilverTimerSimulator.Simulator\OpenSilverTimerSimulator.Simulator.csproj", "{2A940D39-FD9D-41EA-B2BA-BE9D276D39D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B4784C7-4A13-4AC5-B4ED-570AE9F73AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4784C7-4A13-4AC5-B4ED-570AE9F73AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4784C7-4A13-4AC5-B4ED-570AE9F73AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4784C7-4A13-4AC5-B4ED-570AE9F73AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244A0B0A-0C4E-4248-A272-328A8C78E8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244A0B0A-0C4E-4248-A272-328A8C78E8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244A0B0A-0C4E-4248-A272-328A8C78E8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244A0B0A-0C4E-4248-A272-328A8C78E8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A940D39-FD9D-41EA-B2BA-BE9D276D39D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A940D39-FD9D-41EA-B2BA-BE9D276D39D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A940D39-FD9D-41EA-B2BA-BE9D276D39D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A940D39-FD9D-41EA-B2BA-BE9D276D39D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE57091-801F-4BFF-A985-6EA29E924400}
+	EndGlobalSection
+EndGlobal
